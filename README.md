@@ -19,3 +19,6 @@ Utilizes Bright Data API for web scraping and Next.js for the frontend 🌐. It 
 - **Efficient Data Collection**: Through the use of web hooks, registering queries, and fetching query lists, the data collection process is streamlined to ensure efficient storage and retrieval of information, optimizing the project’s functionality. 🎯
 
 In Summary, **Web development + Data science = This Project** 🚀. It offers a fresh perspective on leveraging web scraping for personalized recommendations.
+
+<img width="1425" alt="image" src="https://github.com/RaviTejaGattu1/AIYoutubeRecommendations/assets/46156268/f13ba434-3331-4327-a6b7-c89c05b06400">
+
