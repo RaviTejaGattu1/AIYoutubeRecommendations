@@ -2,6 +2,7 @@
 
 ## Vision 
 Personalized AI YouTube recommendations, enabled through Web Scraping via Bright Data API and Next.js.
+Bright Data Api : https://docs.brightdata.com/api-reference/introduction
 
 ## Steps 
 The project involves key steps:
